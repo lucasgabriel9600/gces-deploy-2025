@@ -6,7 +6,11 @@ const MainScreen = () => {
             </h1>
             <p>
                 Exemplificando a entrega contínua
+                <p>
+                    Development
+                </p>
             </p>
+            
         </main>
     )
 }
